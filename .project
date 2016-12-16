@@ -28,4 +28,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/Report.text</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/java/Report.text</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
